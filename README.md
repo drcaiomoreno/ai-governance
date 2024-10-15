@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=H1hAcbyp7Zo
 ### Building a foundation for AI success: Governance
 https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/28/building-a-foundation-for-ai-success-governance/
 
+Smith, B. (2023). How do we best govern AI? Microsoft on the Issues.
+https://blogs.microsoft.com/on-the-issues/2023/05/25/how-do-we-best-govern-ai/.
+
 ### Governing AI:A Blueprint for the Future
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw
 
