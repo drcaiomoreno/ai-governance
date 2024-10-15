@@ -15,6 +15,14 @@ https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog
 https://www.unitycatalog.io/<BR>
 https://github.com/unitycatalog/unitycatalog<BR>
 
+### Governance in the Age of Generative AI: A 360° Approach for Resilient Policy and Regulation
+https://www.weforum.org/publications/governance-in-the-age-of-generative-ai/
+
+### Make responsible AI pervasive and systematic in the enterprise
+https://www.accenture.com/us-en/services/data-ai/responsible-ai
+
+### AI ethics & governance
+https://www.accenture.com/es-es/services/applied-intelligence/ai-ethics-governance
 
 ### Unity Catalog - UCX
 https://github.com/databrickslabs/ucx<BR>
