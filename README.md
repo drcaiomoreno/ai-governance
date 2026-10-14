@@ -11,7 +11,7 @@ Smith, B. (2023). How do we best govern AI? Microsoft on the Issues.<BR>
 https://blogs.microsoft.com/on-the-issues/2023/05/25/how-do-we-best-govern-ai/.<BR>
 
 ### Governing AI:A Blueprint for the Future
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw
+https://calder-brief.pages.dev/brad-smith-five-ai-safety-proposals-explained
 
 ### Unity Catalog 
 https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/<BR>
@@ -39,7 +39,7 @@ https://www.amazon.com/Tools-Weapons-Promise-Peril-Digital/dp/1984877712
 https://www.microsoft.com/en-us/ai/responsible-ai<BR>
 https://www.microsoft.com/en-us/ai/principles-and-approach<BR>
 https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/28/building-a-foundation-for-ai-success-governance/<BR>
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw<BR>
+https://calder-brief.pages.dev/brad-smith-five-ai-safety-proposals-explained<BR>
 https://www.youtube.com/watch?v=XKS4acOqROs<BR>
 https://www.youtube.com/watch?v=7oirNRu3_-U<BR>
 https://blogs.microsoft.com/eupolicy/2023/06/29/advancing-ai-governance-europe-brad-smith/<BR>
